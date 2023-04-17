@@ -1,5 +1,11 @@
 # 🐧👨‍💻👩‍💻 FOSS Community United 🚀📚
 
+<p align="center"> 
+  <img width="75%" height="75%" src="https://user-images.githubusercontent.com/69577224/232351104-0f43dd96-de55-421f-bd4e-9102c7b8256b.jpg" alt="Tux">
+</p>
+
+<br>
+
 Welcome to the FOSSCU (Free and Open Source Software Community United) GitHub profile! We're a community of penguin-loving developers who are passionate about FOSS and open education. 🐧🌟
 
 ## About FOSS
