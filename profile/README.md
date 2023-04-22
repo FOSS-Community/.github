@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../assets/icon-rc.png" width="10%" />
+    <img src="https://raw.githubusercontent.com/FOSS-Community/.github/main/assets/icon-rc.png" width="10%" />
     <h1 align="center">🐧👨‍💻👩‍💻 FOSS Community United 🚀📚</h1>
     <h3 align="center">Growing With the Community</h3>
 </p>
@@ -10,7 +10,7 @@
     </a>
 </p>
 <p align="center"> 
-  <img width="60%" height="60%" src="../assets/stallman-rc.png" alt="stallman">
+  <img width="60%" height="60%" src="https://raw.githubusercontent.com/FOSS-Community/.github/main/assets/stallman-rc.png" alt="stallman">
 </p>
 
 <br>
