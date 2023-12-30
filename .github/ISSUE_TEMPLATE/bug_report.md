@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-labels: "🚦 status: awaiting triage"
+labels: "🛠 goal: fix, 🚦 status: awaiting triage, 💻 aspect: code, 🟧priority: high"
 title: "[Bug] <Replace this with actual title>"
 ---
 
